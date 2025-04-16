@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Development, AI/ML**
 
-- 📝 I do Story Writing for Games. Checkout my Blog on [https://cosmeta.live](https://cosmeta.tech)
+- 📝 I do Story Writing for Games. Checkout my Blog on [https://cosmeta.tech](https://cosmeta.tech)
 
 - 💬 Ask me about **C, C++, Javascript**
 
