@@ -7,7 +7,7 @@
 
 - 📝 I do Story Writing for Games. Checkout my Blog on [https://cosmeta.tech](https://cosmeta.tech)
 
-- 💬 Ask me about **C, C++, Javascript**
+- 💬 Ask me about **C, C++, Python**
 
 - 📫 How to reach me **2403031461247@paruluniversity.ac.in**
 
