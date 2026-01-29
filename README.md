@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Legendgod aka Ayush Rajpurohit</h1>
+<h1 align="center">Hi 👋, I'm Ayush Rajpurohit</h1>
 <h3 align="center">Passionate Engineering Student with Computer Science Major</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendgod1&label=Profile%20views&color=0e75b6&style=flat" alt="legendgod1" /> </p>
